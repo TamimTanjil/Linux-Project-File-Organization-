@@ -30,9 +30,9 @@ The script is portable and tested on online Bash compilers like Replit, making i
 2. *Menu Interface*:
    - Upon running, the script displays a menu with 10 options:
      
-     =====================================
-         Linux File Management Project    
-     =====================================
+     
+        [ Linux File Management Project ]  
+    
      1. List files and directories in current folder
      2. Create a new file
      3. Delete a file
@@ -43,7 +43,8 @@ The script is portable and tested on online Bash compilers like Replit, making i
      8. Search for files by name
      9. Display current working directory
      10. Exit
-     =====================================
+         
+     Output:-
      Enter your choice (1-10): 
      
    - Users enter a number (1–10) to select an action.
